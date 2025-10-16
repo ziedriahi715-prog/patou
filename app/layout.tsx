@@ -35,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Fam Trip Chypre</title>
+        <title>50TH BIRTHDAY PATOU - TOZEUR</title>
         <meta name="description" content="Secret AfterWork App" />
         <link
           rel="apple-touche-icon"
