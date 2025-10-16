@@ -156,7 +156,7 @@ export const MenuHomePage = [
 
   {
     name: "Activités",
-    icon: "/images/svghomepage/handshake.svg",
+    icon: "/images/svghomepage/activity.svg",
     link: "activites",
   },
 
