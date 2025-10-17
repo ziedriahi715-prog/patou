@@ -18,8 +18,7 @@ const days: DayActivites[] = [
     title: "Randonnée en Quad – Désert & adrénaline",
     content: (
       <>
-        <ul className="list-disc space-y-3 py-2 pl-5">
-          
+<br></br>     
  <span>Enfourchez votre quad et filez entre palmeraies, regs et dunes aux portes du Sahara. Briefing express, guidage pro, sensations garanties… et un stop photo sur des panoramas XXL.
   <br></br>
  </span>
@@ -51,8 +50,6 @@ const days: DayActivites[] = [
 </span>
 
   
-       
-        </ul>
       </>
     ),
   },
@@ -62,8 +59,7 @@ const days: DayActivites[] = [
     title: "Découverte du Chott el Jerid",
     content: (
       <>
-        <ul className="list-disc space-y-3 py-2 pl-5">
-          
+<br></br>        
  <span>
 Immense lac salé aux reflets changeants, le Chott el Jerid offre un spectacle unique au lever ou au coucher du soleil.<br></br>
 Entre mirages et jeux de lumière, le désert se transforme en un tableau vivant où ciel et terre se confondent.<br></br>
@@ -99,8 +95,6 @@ Un moment magique et poétique, à savourer dans le silence du Sahara.
 </span>
 
   
-       
-        </ul>
       </>
     ),
   },
@@ -110,7 +104,7 @@ Un moment magique et poétique, à savourer dans le silence du Sahara.
     title: "Découverte de Tozeur en calèche",
     content: (
       <>
-          
+<br></br>          
  <span>Balade en calèche à travers la briqueterie (fabrication des briques ocre), la vieille ville aux ruelles géométriques et la palmeraie apaisante. Ambiance authentique, pauses photo et belles anecdotes sur l’artisanat local.
 <br></br>
  </span>
@@ -148,8 +142,7 @@ Un moment magique et poétique, à savourer dans le silence du Sahara.
     title: "Découverte de l’Oasis de montagne",
     content: (
       <>
-        <ul className="list-disc space-y-3 py-2 pl-5">
-          
+<br></br>      
  <span>
 Entre désert et Atlas, explorez Chebika et ses sources, Midès et ses panoramas vertigineux, puis Tamerza, oasis luxuriante aux cascades cristallines. Une immersion entre canyons, palmeraies et villages perchés, avec pauses photo et moment fraîcheur au fil de l’eau.  
   <br></br>
@@ -180,8 +173,7 @@ Entre désert et Atlas, explorez Chebika et ses sources, Midès et ses panoramas
 </span>
 
   
-       
-        </ul>
+
       </>
     ),
   },
