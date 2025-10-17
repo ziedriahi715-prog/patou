@@ -110,7 +110,6 @@ Un moment magique et poétique, à savourer dans le silence du Sahara.
     title: "Découverte de Tozeur en calèche",
     content: (
       <>
-        <ul className="list-disc space-y-3 py-2 pl-5">
           
  <span>Balade en calèche à travers la briqueterie (fabrication des briques ocre), la vieille ville aux ruelles géométriques et la palmeraie apaisante. Ambiance authentique, pauses photo et belles anecdotes sur l’artisanat local.
 <br></br>
@@ -139,8 +138,7 @@ Un moment magique et poétique, à savourer dans le silence du Sahara.
 </span>
 
   
-       
-        </ul>
+
       </>
     ),
   },
