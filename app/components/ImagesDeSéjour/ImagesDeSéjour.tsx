@@ -5,6 +5,14 @@ import Image from "next/image";
 const ImagesDeSéjour = () => {
   const images = [
     {
+      src: "/images/sejour/KsarRrougechambre.jpg",
+      alt: "Image 1",
+    },
+    {
+      src: "/images/sejour/PiscineKsarRouge.jpg",
+      alt: "Image 2",
+    },    
+    {
       src: "/images/sejour/Image 1.jpg",
       alt: "Image 1",
     },

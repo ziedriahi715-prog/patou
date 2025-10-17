@@ -55,7 +55,7 @@ const days: DayProgramme[] = [
   {
     key: "2025-10-25",
     label: "Samedi 25 octobre",
-    title: "Samedi 25 octobre : Journée au grès de vos envies !",
+    title: "Samedi 25 octobre : Journée au grè de vos envies !",
     content: (
       <>
         <ul className="list-disc space-y-3 py-2 pl-5">
