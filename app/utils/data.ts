@@ -113,15 +113,10 @@ export const Menus = [
     icon: "/images/svg/contact.svg",
     link: "Contacts utiles",
   },
-  {
-    name: "Trombinoscope",
-    icon: "/images/svg/camera.svg",
-    link: "trombinoscope",
-  },
 
   {
     name: "Activites",
-    icon: "/images/svg/house-line.svg",
+    icon: "/images/svg/motorbike.svg",
     link: "activites",
   },
 
