@@ -33,6 +33,8 @@ const days: DayActivites[] = [
        />
             <span>
 <br></br>
+<b>Infos pratiques</b>              
+<br></br>
 <b>Durée :</b> 1h, 2h ou demi-journée
 <br></br>
 <b>Encadrement</b> professionnel 
@@ -62,7 +64,10 @@ const days: DayActivites[] = [
       <>
         <ul className="list-disc space-y-3 py-2 pl-5">
           
- <span>Enfourchez votre quad et filez entre palmeraies, regs et dunes aux portes du Sahara. Briefing express, guidage pro, sensations garanties… et un stop photo sur des panoramas XXL.
+ <span>
+Immense lac salé aux reflets changeants, le Chott el Jerid offre un spectacle unique au lever ou au coucher du soleil.<br></br>
+Entre mirages et jeux de lumière, le désert se transforme en un tableau vivant où ciel et terre se confondent.<br></br>
+Un moment magique et poétique, à savourer dans le silence du Sahara.
   <br></br>
  </span>
 
@@ -74,20 +79,23 @@ const days: DayActivites[] = [
          className="rounded-lg shadow-lg"
        />
             <span>
+               
 <br></br>
-<b>Durée :</b> 1h, 2h ou demi-journée
+<b>Infos pratiques</b>
 <br></br>
-<b>Encadrement</b> professionnel 
+<b>Durée :</b> 1h30 à 2h
 <br></br>
-<b>Casque</b> fourni
+<b>Accès :</b> Au départ de l’hôtel  
 <br></br>
-<b>Accès :</b> La base de quad est située à 5 mn à pied de l’hôtel 
+<b>Minimum :</b> 4 personnes
 <br></br>
-<b>À prévoir :</b> tenue confortable, lunettes de soleil 
+<b>À prévoir :</b> Lunettes de soleil, appareil photo, petite laine (températures fraîches au lever du jour) 
+<br></br>
+<b>Recommandé :</b> Lever du soleil pour les plus belles lumières
 <br></br>
 <b>Réservation avant départ</b>, paiement sur place (euros acceptés)
 <br></br>
-<b>Tarif :</b> 1h/40 dinars (12€) – 2h/80 dinars (24€) – Demi-journée 200 dinars (60€)
+<b>Tarif :</b> 180 dinars (53€)  par 4x4 (6 personnes maximum)
 </span>
 
   
@@ -104,8 +112,8 @@ const days: DayActivites[] = [
       <>
         <ul className="list-disc space-y-3 py-2 pl-5">
           
- <span>Enfourchez votre quad et filez entre palmeraies, regs et dunes aux portes du Sahara. Briefing express, guidage pro, sensations garanties… et un stop photo sur des panoramas XXL.
-  <br></br>
+ <span>Balade en calèche à travers la briqueterie (fabrication des briques ocre), la vieille ville aux ruelles géométriques et la palmeraie apaisante.Ambiance authentique, pauses photo et belles anecdotes sur l’artisanat local.
+<br></br>
  </span>
 
        <img
@@ -117,19 +125,17 @@ const days: DayActivites[] = [
        />
             <span>
 <br></br>
-<b>Durée :</b> 1h, 2h ou demi-journée
+<b>Infos pratiques</b>
 <br></br>
-<b>Encadrement</b> professionnel 
+<b>Durée :</b> 1h ou 2h
 <br></br>
-<b>Casque</b> fourni
+<b>Accès :</b> Au départ de l’hôtel  
 <br></br>
-<b>Accès :</b> La base de quad est située à 5 mn à pied de l’hôtel 
-<br></br>
-<b>À prévoir :</b> tenue confortable, lunettes de soleil 
+<b>Minimum :</b> 4 personnes
 <br></br>
 <b>Réservation avant départ</b>, paiement sur place (euros acceptés)
 <br></br>
-<b>Tarif :</b> 1h/40 dinars (12€) – 2h/80 dinars (24€) – Demi-journée 200 dinars (60€)
+<b>Tarif :</b> 1h/20 dinars (6€) – 2h/40 dinars (12€)
 </span>
 
   
@@ -146,7 +152,8 @@ const days: DayActivites[] = [
       <>
         <ul className="list-disc space-y-3 py-2 pl-5">
           
- <span>Enfourchez votre quad et filez entre palmeraies, regs et dunes aux portes du Sahara. Briefing express, guidage pro, sensations garanties… et un stop photo sur des panoramas XXL.
+ <span>
+Entre désert et Atlas, explorez Chebika et ses sources, Midès et ses panoramas vertigineux, puis Tamerza, oasis luxuriante aux cascades cristallines. Une immersion entre canyons, palmeraies et villages perchés, avec pauses photo et moment fraîcheur au fil de l’eau.  
   <br></br>
  </span>
 
@@ -159,19 +166,19 @@ const days: DayActivites[] = [
        />
             <span>
 <br></br>
-<b>Durée :</b> 1h, 2h ou demi-journée
+<b>Infos pratiques</b>
 <br></br>
-<b>Encadrement</b> professionnel 
+<b>Durée :</b> Demi-journée ou journée
 <br></br>
-<b>Casque</b> fourni
+<b>Accès :</b> Au départ de l’hôtel  
 <br></br>
-<b>Accès :</b> La base de quad est située à 5 mn à pied de l’hôtel 
+<b>Minimum :</b> 4 personnes
 <br></br>
-<b>À prévoir :</b> tenue confortable, lunettes de soleil 
+<b>Tenue :</b> confortable, chaussures fermées antidérapantes, chapeau/lunettes, crème solaire
 <br></br>
 <b>Réservation avant départ</b>, paiement sur place (euros acceptés)
 <br></br>
-<b>Tarif :</b> 1h/40 dinars (12€) – 2h/80 dinars (24€) – Demi-journée 200 dinars (60€)
+<b>Tarif :</b> Demi-journée 180 dinars (53€) par 4x4 – Journée 380 dinars (112€)  par 4x4 (6 personnes maximum par 4x4)
 </span>
 
   
